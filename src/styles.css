@@ -1,0 +1,22 @@
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+
+body {
+  color: #ffffff;
+  background: url('./assets/bg2.jpg') repeat-y scroll center top black;
+  background-size: auto;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.bodycolor {
+  background-color: #000000;
+}
+/*
+
+body
+{
+  background-color: #000000;
+  color: #ffffff;
+  background-image: url('./assets/bg2.jpg');
+  background-repeat: no-repeat;
+}*/
